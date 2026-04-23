@@ -8,23 +8,32 @@ Os exercícios encontram-se distribuídos por diferentes ficheiros, cada um dedi
 
 ## FIcha 1
 ex01-Ficha1.py → Apresentação de mensagens/dados no ecrã
+
 ex02-Ficha1.py → Introdução de informação (nome e idade)
+
 exp03-Ficha1.py → Estimativa de idade aproximada a partir de dados
 
 ## Ficha 2
 ex01-Ficha2.py → Cálculo da soma de números inseridos pelo utilizador
+
 ex02-Ficha2.py → Conversão de temperatura (°C para °F)
+
 ex03-Ficha2.py → Operações matemáticas básicas (soma, subtração, etc.)
 
 ## Ficha 3
 ex01-Ficha3.py → Verificação de aprovação (nota igual ou superior a 10)
+
 ex02-Ficha3.py → Identificação de número par ou ímpar
+
 ex03-Ficha3.py → Sistema de login com validação simples
 
 ## Ficha 4
 ex01-Ficha4.py → Simulação simples de um levantamento bancário
+
 ex02-Ficha4.py → Classificação por escalões de idade
+
 ex03-Ficha4.py → Determinação do maior valor entre três números
+
 ex04-Ficha4.py → Aplicação de descontos com base em condições
 
 ## A01
