@@ -101,9 +101,13 @@ A3 — Pede um número e calcula o seu fatorial (multiplicação de 1 até ao n�
 Este programa é um pequeno sistema de gestão de notas com um menu. Ele permite:
 
 Adicionar notas (com validação entre 0 e 20)
+
 Listar todas as notas guardadas
+
 Calcular a média das notas
+
 Mostrar apenas notas positivas (≥ 10)
+
 Sair do programa
 
 Ele fica a correr em ciclo até o utilizador escolher 0.
@@ -113,9 +117,13 @@ Ele fica a correr em ciclo até o utilizador escolher 0.
 Este programa permite:
 
 Adicionar materiais novos ao stock com uma quantidade inicial
+
 Consultar a quantidade de um material específico
+
 Atualizar o stock de um material existente (adicionar ou remover unidades)
+
 Ver o stock completo (lista de todos os materiais e quantidades)
+
 Sair do sistema quando o utilizador quiser
 
 Tudo isto acontece num ciclo: o menu aparece várias vezes e o programa só termina quando escolheres a opção de sair.
